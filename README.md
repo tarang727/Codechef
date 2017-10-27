@@ -1,2 +1,2 @@
 # Codechef
-My solutions to some problems on Codechef : A competitive programming platform.
+Complete java solutions to problems on Codechef : A competitive programming platform.
